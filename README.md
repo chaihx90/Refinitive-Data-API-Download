@@ -5,7 +5,7 @@ The Python code connects to Refinitiv via API, downloads any data that is not cu
 
 Important: You would need a Refinitiv Datascope account username and password for the code to work. Key in your credentials into "daily_extract.py".
 
-\-----   INSTALLATION    -----\
+\-----   INSTALLATION    -----
 1. Ensure python 3.7.X is available on your local machine. It can
 be installed from python.org. You may desire to create a virtual
 environment for this project so that python packages installed in
